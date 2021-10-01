@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./tutorial/4-forms/color/App";
+import App from "./tutorial/4-forms/grocery-bud/App";
 
 ReactDOM.render(
   <React.StrictMode>
